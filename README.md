@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MHtRDev
+- 👋 Hi, I’m @mhtr1407
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Game Development
