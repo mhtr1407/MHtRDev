@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MHtRDev
-- 👀 I’m interested in A.I.
+- 👀 I’m interested in Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me: mhtr1407@gmail.com
