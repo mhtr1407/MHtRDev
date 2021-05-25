@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhtr1407
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Game Development
+- 💞️ I’m looking to collaborate on Python based Data Science and Machine Learning
 - 📫 How to reach me: mhtr1407@gmail.com
 
 <!---
